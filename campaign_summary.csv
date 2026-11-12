@@ -1,0 +1,83 @@
+﻿reporting_month,call_duration_threshold_seconds,tier,campaign,total_calls,qualified_count,existing_patient_count,disqualified_count,hang_up_count,spanish_count
+2026-09,60,tier_2,Bariatrics - SEM,30,9,10,4,0,7
+2026-09,60,tier_2,Cardiology - 4664 - SEM,1,1,0,0,0,0
+2026-09,60,tier_2,Cardiology - 6356 - SEM,3,0,0,1,2,0
+2026-09,60,tier_2,Cardiology - 7750 - SEM,2,2,0,0,0,0
+2026-09,60,tier_2,Cardiology - 7900 - SEM,26,6,7,4,6,3
+2026-09,60,tier_2,Cardiology - MiamiDade - TradeDesk_Peds,1,0,0,0,1,0
+2026-09,60,tier_2,Cardiology - SEM,40,10,7,3,16,4
+2026-09,60,tier_2,Emergency Room - Nonbrand 2000 - SEM,3,1,1,0,0,1
+2026-09,60,tier_2,Emergency Room - Nonbrand 4500 - SEM,1,0,1,0,0,0
+2026-09,60,tier_2,Emergency Room - Nonbrand 9650 - SEM,1,1,0,0,0,0
+2026-09,60,tier_2,ER - Pembroke - Freestanding - SEM,1,0,0,1,0,0
+2026-09,60,tier_2,General Pediatrics - Genetics - SEM,3,1,1,0,1,0
+2026-09,60,tier_2,General Pediatrics - Neurology - SEM,13,2,3,1,4,3
+2026-09,60,tier_2,General Pediatrics - Orthopedics - SEM,16,9,3,3,1,0
+2026-09,60,tier_2,General Surgery - 7874 - SEM,9,5,1,1,1,1
+2026-09,60,tier_2,General Surgery - 8559 - SEM,1,0,1,0,0,0
+2026-09,60,tier_2,Heart - HRA - FB,1,1,0,0,0,0
+2026-09,60,tier_2,Heart - HRA - SEM,1,0,1,0,0,0
+2026-09,60,tier_2,Heart HRA - FB (pcp number),1,1,0,0,0,0
+2026-09,60,tier_2,Joint - SEM (Chan/MacKenzie),3,0,1,1,1,0
+2026-09,60,tier_2,Joint - SEM (Kazdan),3,0,0,0,3,0
+2026-09,60,tier_2,Kidney Transplant - SEM,20,0,3,15,2,0
+2026-09,60,tier_2,MHS_FY25_GeneralPediatrics_P2P -- PalmBeach -- PulsePoint,1,0,0,0,1,0
+2026-09,60,tier_2,MHS_FY25_GeneralPediatrics_P2P_NICU -- MiamiDade -- PadsquadVidStream,1,0,0,1,0,0
+2026-09,60,tier_2,Neurology - SEM,123,58,30,7,15,13
+2026-09,60,tier_2,OB - 3015 - SEM,6,0,4,2,0,0
+2026-09,60,tier_2,OB - 4484 - SEM,8,0,0,0,8,0
+2026-09,60,tier_2,OB - 5180 - SEM,2,1,0,0,1,0
+2026-09,60,tier_2,OB - 7110 - SEM,33,5,8,6,12,2
+2026-09,60,tier_2,Oncology - Cancer Care - YT,1,0,0,0,1,0
+2026-09,60,tier_2,Oncology - Demand Gen,1,0,0,0,1,0
+2026-09,60,tier_2,Oncology - SEM,104,36,24,14,25,5
+2026-09,60,tier_2,Oncology - SEM - Urological Oncology,2,1,1,0,0,0
+2026-09,60,tier_2,Ped Cardio - Aguirre/Snyder - SEM,3,2,1,0,0,0
+2026-09,60,tier_2,Ped Cardio - Arce - SEM,2,0,1,0,1,0
+2026-09,60,tier_2,Ped Cardio - Diamond - SEM,2,0,0,0,2,0
+2026-09,60,tier_2,Ped Cardio - Drossner/Uy - SEM,0,0,0,0,0,0
+2026-09,60,tier_2,Ped Cardio - Dubiois - SEM,3,1,1,1,0,0
+2026-09,60,tier_2,Ped Cardio - Friedman - SEM,1,1,0,0,0,0
+2026-09,60,tier_2,Ped Cardio - Giraldo - SEM,6,2,2,1,1,0
+2026-09,60,tier_2,Ped Cardio - Joe DiMaggio - SEM,14,7,4,1,2,0
+2026-09,60,tier_2,Ped Cardio - Schedule Appt - SEM,38,16,4,4,8,6
+2026-09,60,tier_2,Ped Cardio - Skimming - SEM,2,1,0,0,1,0
+2026-09,60,tier_2,Ped Cardio North - Jupiter - SEM,2,1,1,0,0,0
+2026-09,60,tier_2,Pediatric Allergy - SEM,5,4,0,0,1,0
+2026-09,60,tier_2,Pediatric Cardiology - Facebook,24,13,3,2,4,2
+2026-09,60,tier_2,Pediatric Cardiology - SEM,35,21,6,2,6,0
+2026-09,60,tier_2,Pediatric Cardiology - South - SEM,1,0,0,0,1,0
+2026-09,60,tier_2,Pediatric Care - SEM,31,15,10,3,2,1
+2026-09,60,tier_2,Pediatric ENT - SEM,9,4,0,1,4,0
+2026-09,60,tier_2,Pediatric Gastro - SEM,6,6,0,0,0,0
+2026-09,60,tier_2,Pediatric Lung - SEM,9,2,1,3,2,1
+2026-09,60,tier_2,Pediatrics - Cancer - SEM,1,1,0,0,0,0
+2026-09,60,tier_2,Pediatrics - Endocrinology - SEM,5,4,0,0,1,0
+2026-09,60,tier_2,Pediatrics - General Surgery - SEM,104,38,37,17,5,7
+2026-09,60,tier_2,Pediatrics - Neurosurgery - Epilepsy - SEM,3,0,0,1,1,1
+2026-09,60,tier_2,Pediatrics - Neurosurgery - SEM,7,2,3,1,1,0
+2026-09,60,tier_2,Pediatrics - Oncology 2234 - SEM,6,1,3,0,2,0
+2026-09,60,tier_2,Pediatrics - Orthopedics - 5507 - SEM,1,1,0,0,0,0
+2026-09,60,tier_2,Pediatrics - Orthopedics - 6300 - SEM,91,36,22,10,16,7
+2026-09,60,tier_2,Pediatrics - Orthopedics - 7000 - SEM,11,4,3,0,4,0
+2026-09,60,tier_2,Pediatrics - Orthopedics - 7005 - SEM,1,1,0,0,0,0
+2026-09,60,tier_2,Pediatrics - Orthopedics - 8962 - SEM,5,4,1,0,0,0
+2026-09,60,tier_2,Spine - FB,2,1,1,0,0,0
+2026-09,60,tier_2,Spine - SEM,111,20,41,27,19,4
+2026-09,60,tier_1,General Brand - SEM 5500,12,7,3,1,1,0
+2026-09,60,tier_1,General Hospital - SEM 5500,3,1,0,0,0,2
+2026-09,60,tier_1,Ortho - FB (Chan/MacKenzie),1,0,0,0,1,0
+2026-09,60,tier_1,Ortho - FB (Scheduling),2,0,0,0,2,0
+2026-09,60,tier_1,Ortho Ialenti - SEM,1,1,0,0,0,0
+2026-09,60,tier_1,Ortho Joseph - SEM,1,0,0,0,1,0
+2026-09,60,tier_1,Ortho Memorial Hospital Appointment - SEM,9,4,2,2,1,0
+2026-09,60,tier_1,Ortho Memorial Regional Main - SEM,9,0,0,8,1,0
+2026-09,60,tier_1,Ortho Multi Doctor 1 - SEM,2,0,1,0,1,0
+2026-09,60,tier_1,Ortho Multi Doctor 2 - SEM,76,37,8,6,16,9
+2026-09,60,tier_1,Ortho Sports Med - SEM,38,22,6,1,5,4
+2026-09,60,tier_1,Ortho Worth - SEM,1,1,0,0,0,0
+2026-09,60,tier_1,Primary Care - FB 5552,3,0,0,1,2,0
+2026-09,60,tier_1,Primary Care - SEM,175,61,45,16,45,8
+2026-09,60,tier_1,Primary Care 2000 - SEM,1,0,0,0,0,1
+2026-09,60,tier_1,Sports Medicine - SEM,77,25,13,15,16,8
+2026-09,60,tier_1,Wound Care - SEM,34,17,5,2,10,0
